@@ -1,2 +1,2 @@
 #!/bin/bash
-chmown -hR betty:alxschool .
+chown -hR vincent:staff .
